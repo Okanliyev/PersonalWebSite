@@ -161,7 +161,7 @@ Okan Aliyev
 
 GitHub: @okanliyev
 
-Email: okanaliyev@gmail.com
+Email: okanliyev@gmail.com
 
 Location: Baku, Azerbaijan
 
