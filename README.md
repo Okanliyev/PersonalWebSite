@@ -1,5 +1,5 @@
 Okan Aliyev - Personal Portfolio Website
-https://img.shields.io/badge/Portfolio-Live-brightgreen https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black https://img.shields.io/badge/Responsive-Yes-blue
+
 
 📋 Overview
 A modern, responsive personal portfolio website for Okan Aliyev, a Software Engineering student from Azerbaijan. The website showcases his projects, skills, and contact information in a clean, professional design.
